@@ -1,0 +1,5 @@
+{
+  "name": "Entra Conditional Access Optimizer",
+  "description": "An AI-powered tool to translate business requirements into an optimal Microsoft Entra Conditional Access Policy Matrix, ensuring security and productivity.",
+  "requestFramePermissions": []
+}
